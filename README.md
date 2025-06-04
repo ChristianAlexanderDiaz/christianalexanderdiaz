@@ -20,7 +20,7 @@
     height="150"
   />
 </p>
-📦 Contributed mobile features at Walmart Global Tech (private repos not reflected in GitHub stats)
+📦 Contributed Java and mobile features at Walmart Global Tech pushed 122 contributions (private repos)
 
 ## ➡️ About Me
 
