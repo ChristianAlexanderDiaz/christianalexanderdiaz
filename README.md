@@ -1,5 +1,5 @@
 # Hi there, I'm Christian 👋
-## Software Engineer @ Walmart Global Tech | Software Engineering Intern @ Walmart Global Tech | 7K+ Content Creator | CS @ Virginia Tech
+## Software Engineer @ Walmart Global Tech | Software Engineering Intern @ Walmart Global Tech | 10K+ Content Creator | CS @ Virginia Tech
 
 <div align="center">
   <img src="https://github.com/coderkai03/stats/blob/master/generated/overview.svg" alt="Overview Stats"/>
