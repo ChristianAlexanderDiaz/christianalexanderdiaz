@@ -27,7 +27,7 @@
 
 - 👋 Hi, I'm Christian—an iOS/full-stack developer  
 - 🎓 CS @ Virginia Tech  
-- 🎯 I love building AI tools that enhance everyday life!  
+- 🎯 I love building mobile applications and thrive on my curiousity with Prompt Engineering!
 
 ---
 
