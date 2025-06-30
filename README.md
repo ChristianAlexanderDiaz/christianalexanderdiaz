@@ -134,4 +134,5 @@
 
 ## 📈 Personal Achievements
 
-- My 819 bowling series is top 0.1% in the U.S.
+- My 819 bowling series is top 0.1% in the US
+I got there by analyzing the Dunning-Kruger effect :)
