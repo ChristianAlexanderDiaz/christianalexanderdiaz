@@ -1,5 +1,5 @@
 # Hi there, I'm Christian 👋
-## SWE @ Walmart Global Tech | Prev SWE Intern @ Walmart Global Tech, iOS UTA @ Virginia Tech CS, IT Intern @ HITT Contracting, Inc. | 10K+ Content Creator | CS @ Virginia Tech
+## SWE @ Actifai | SWE @ Walmart Global Tech | SWE @ HITT Contracting, Inc. | CS @ Virginia Tech
 
 <div align="center">
   <img src="https://github.com/coderkai03/stats/blob/master/generated/overview.svg" alt="Overview Stats"/>
